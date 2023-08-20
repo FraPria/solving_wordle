@@ -11,7 +11,10 @@ There are 2315 possible target word that you can find in [this list](https://doc
 
 The image below shows the frequencies distributions of each letter
 
-![dictionary](Scripts/wordle_files/figure-gfm/dictionary-1.png)
+<p align="center">
+<img src="Scripts/wordle_files/figure-gfm/dictionary-1.png" height="200">
+</p>
+
 
 In this project I try to find the optimal strategy for solving Wordle using Shannon's entropy concept. 
 This method shows that the best first guess is the word RAISE and the worst is MAMMA.
