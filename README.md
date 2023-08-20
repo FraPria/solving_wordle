@@ -12,7 +12,7 @@ There are 2315 possible target word that you can find in [this list](https://doc
 The image below shows the frequencies distributions of each letter
 
 <p align="center">
-<img src="Scripts/wordle_files/figure-gfm/dictionary-1.png" width="500">
+<img src="Scripts/wordle_files/figure-gfm/dictionary-1.png" width="700">
 </p>
 
 
